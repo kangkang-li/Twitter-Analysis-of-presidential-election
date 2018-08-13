@@ -8,6 +8,8 @@ This project was constructed on Dec 2016 when the result of presidential electio
 
 Interestingly, Twitter API is not completely open to public that it requires application of permission, and the author didnt hear back after 2 weeks since the application. Some offline data in JSON was provided for test use.
 
+Positive/negative words txt-vocab were copied from https://github.com/shovanch/twitter-sentiment-analysis , for future use.
+
 ## Twitter API:
 With the accessibility of Twitter API Tweepy, "twitter scape" can be used to acquire tweets data.
 
