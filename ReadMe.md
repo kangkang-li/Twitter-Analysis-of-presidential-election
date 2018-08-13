@@ -13,4 +13,4 @@ With the accessibility of Twitter API Tweepy, "twitter scape" can be used to acq
 
 ### resources:
 https://github.com/dataquestio/twitter-scrape
-https://developer.twitter.com/en/docs
+<br>https://developer.twitter.com/en/docs
